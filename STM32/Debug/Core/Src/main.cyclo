@@ -1,0 +1,14 @@
+../Core/Src/main.c:81:6:SetRGBColor	1
+../Core/Src/main.c:98:5:main	3
+../Core/Src/main.c:164:6:SystemClock_Config	3
+../Core/Src/main.c:211:13:MX_TIM2_Init	6
+../Core/Src/main.c:270:13:MX_TIM3_Init	8
+../Core/Src/main.c:337:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:370:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:403:13:MX_GPIO_Init	1
+../Core/Src/main.c:437:6:MX_GPIO_LED_ON	1
+../Core/Src/main.c:441:6:MX_GPIO_LED_OFF	1
+../Core/Src/main.c:446:6:bluetooth_Event	11
+../Core/Src/main.c:531:1:__io_putchar	1
+../Core/Src/main.c:539:6:HAL_UART_RxCpltCallback	7
+../Core/Src/main.c:580:6:Error_Handler	1
