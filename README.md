@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Smart_Auto_Climate_System_Iot_mini_Project
->>>>>>> 0428c24 (Initial commit)
-=======
-# Smart_Auto_Climate_System_Iot_mini_Project
->>>>>>> 29d5576 (Update README.md)
-=======
 # Iot_mini_Project
 차량 내부도 미세먼지에서 안전하지 않기 때문에 운전자에게 쾌적한 운전 환경을 제공을 목표로 설정했다.
 
@@ -28,7 +19,3 @@
 
 https://github.com/user-attachments/assets/1a913faf-e53d-4b71-8729-e28e79aa34c7
 
-
-
-
->>>>>>> 20a1563 (Update README.md)
